@@ -1,0 +1,66 @@
+﻿[Rank]
+Dominica I in Quadragesima;;I classis Semiduplex;;6
+
+[Rule]
+no Gloria
+Credo
+Prefatio=Quad
+Suffragium=Sanctorum;Vivis;;
+
+[Introitus]
+!Sal 90,15-16
+v. Me invocará, y yo le oiré: le libraré, y lo glorificaré: le saciaré de una larga vida.
+El que habita al abrigo del Altísimo: morará en la protección del Dios del cielo.
+&Gloria
+v. Me invocará, y yo le oiré: le libraré, y lo glorificaré: le saciaré de una larga vida.
+
+[Oratio]
+Oh Dios, que purificas tu Iglesia todos los años con la observancia cuaresmal: haz que tu familia manifieste con buenas obras lo que se esfuerza en alcanzar de ti por la abstinencia.
+$Per Dominum
+
+[Lectio]
+Lección de la Epístola del Ap. S. Pablo a los Corintios.
+!2 Cor. 6,1-10
+Hermanos: Os exhortamos a que nos recibáis en vano la gracia de Dios. Porque dice: En el tiempo propicio te escuché, y te ayudé en el día de la salud. He aquí el tiempo propicio, he aquí el día de la salud. No ofendamos a nadie, para que sea vituperado nuestro ministerio; antes portémonos en todo como ministros de Dios: en mucha paciencia, en las tribulaciones, en las necesidades, en las angustias, en los azotes, en las cárceles, en las sediciones, en los trabajos, en las vigilias, en los ayunos, en la castidad, en la ciencia en la longanimidad, en la suavidad, en el Espíritu Santo, en la caridad no fingida, en la palabra de verdad, en la virtud de Dios, con las armas de la justicia, en la diestra y en la siniestra, en la gloria y en la ignominia, en la fama y en la infamia; como ignorados, pero conocidos; como muriendo, pero he aquí que vivimos; como castigados, pero no muertos; como tristes, pero siempre alegres; como necesitados, pero enriqueciendo a muchos; como teniendo nada pero poseyéndolo todo.
+
+[Graduale]
+!Sal 90,11-12
+Mandará Dios sus Ángeles a ti, para que te custodien en todos tus caminos.
+V. Te llevarán en las manos, para que tu pie no choque con piedra alguna.
+_
+!Tracto
+!Sal 90,1-7; 11-16.
+El que habita al abrigo del Altísimo, morará en la protección del Dios del cielo.
+V. Dirá al Señor: Esperanza mía y refugio mío eres tú; Dios mío, confiaré en ti.
+V. Porque Él me libró del lazo de los cazadores, y de la peste destructora.
+V. Te cubrirá con sus espaldas, te cobijará bajo sus alas.
+V. Te rodeará con el escudo de su verdad: y no temerás los sobresaltos nocturnos.
+V. Desafiarás las flechas que vuelven de día, las emboscadas de la noche, las incursiones y razias del mediodía.
+V. Caerán mil a tu siniestra, y a tu derecha diez mil: mas a ti no te tocarán.
+V. Porque mandará Dios sus Ángeles a ti, para que te custodien en todos tus caminos,
+V. Te llevarán en las manos, para que tu pie no choque con piedra alguna.
+V. Caminarás sobre el áspid y el basilisco, pisarás al león y al dragón.
+V. Puesto que confió en mí, yo le libraré: le protegeré, por haber invocado mi nombre.
+V. Me llamará, y yo le oiré: le acompañaré en la tribulación.
+V. Le libraré, y le glorificaré: le saciaré de larga vida, y le mostraré mi salud.
+
+[Evangelium]
+Continuación del santo Evangelio según S. Mateo.
+!Mt. 4,1-11
+En aquel tiempo Jesús fue llevado por el Espíritu al desierto, para ser tentado por el diablo. Y, habiendo ayunado cuarenta días y cuarenta noches, después tuvo hambre. Y, acercándose el tentador, le dijo: Si eres el Hijo- de Dios, di que estas piedras se tornen panes. Y Él, respondiendo, dijo: Escrito está: No de solo pan vive el hombre, sino de toda palabra que sale de la boca de Dios. Entonces le llevó el diablo a la ciudad santa, y le puso sobre el pináculo del templo, y le dijo: Si eres el Hijo de Dios, échate abajo. Porque escrito está: Mandará sus Ángeles a ti, y te tomarán en las manos, para que tu pie no tropiece en piedra alguna. Díjole Jesús: También está escrito: No tentarás al Señor, tu Dios. El diablo le transportó de nuevo a un monte muy elevado: y le mostró todos los reinos del mundo, y su gloria, y le dijo: Te daré todo esto, si, postrándote, me adorares. Entonces le dijo Jesús: Vete, Satanás. Porque escrito está: Adorarás al Señor, tu Dios, y a Él solo servirás. Entonces le dejó el diablo: y he aquí que se acercaron los Ángeles, y le sirvieron.
+
+[Offertorium]
+!Sal 90,4-5
+El Señor te cubrirá con sus espaldas, y te cobijará bajo sus alas: te rodeará con el escudo de su verdad.
+
+[Secreta]
+Te inmolamos, Señor, solemnemente el sacrificio del comienzo cuaresmal, suplicándote hagas que, con la restricción de carnes, nos moderemos también en los placeres malsanos.
+$Per Dominum
+
+[Communio]
+!Sal 90,4-5
+El Señor te cubrirá con sus espaldas, y te cobijará bajo sus alas: te rodeará con el escudo de su verdad.
+
+[Postcommunio]
+Restáurenos, Señor la santa libación de tu Sacramento: y, purificándonos de nuestra vejez, háganos partícipes de tu salvador Misterio. Por el Señor.
+$Per Dominum

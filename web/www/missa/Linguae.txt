@@ -1,8 +1,8 @@
-Cesky
-English
+﻿English
 Magyar
 Italiano
 Deutsch
+Espanol
 Polski
 French
-Spanish
+

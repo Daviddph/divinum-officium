@@ -1,0 +1,50 @@
+[Rank]
+Feria Sexta Quattuor Temporum Septembris;;Feria major;;2
+
+[Rank1960]
+Feria Sexta Quattuor Temporum Septembris;;Feria major;;4
+
+[Rule]
+
+[Introitus]
+!Sal 104, 3-4
+v. Gloriaos en su santo Nombre; alégrese el corazón de los que van en busca del Señor; buscad al Señor, y permaneced firmes, buscad incesantemente su rostro.
+!Sal 104, 1
+Alabad al Señor e invocad su Nombre; predicad entre las naciones sus admirables obras.
+&Gloria
+v. Gloriaos en su santo Nombre; alégrese el corazón de los que van en busca del Señor; buscad al Señor, y permaneced firmes, buscad incesantemente su rostro.
+
+[Oratio]
+Haz, te suplicamos, oh Dios todopoderoso, que practicando devotamente todos los años las observancias sagradas, te agrademos en cuerpo y en espíritu.
+$Per Dominum
+
+[Lectio]
+Lectura del libro del profeta Oseas
+!Os 14, 2-10
+Así dice el Señor Dios: ¡Oh Israel!, conviértete al Señor Dios tuyo; porque por tus maldades te has precipitado. Pensad en lo que diréis al Señor. Convertíos a él, y decidle arrepentidos: Quita de nosotros toda iniquidad, acepta este bien nuestro, y te presentaremos la ofrenda de nuestras alabanzas. No confiaremos ya en que el asirio nos salve, no montaremos confiados en los caballos de los egipcios, no llamaremos en adelante dioses nuestros a las obras de nuestras manos: porque tú, ¡oh Señor!, te apiadarás de este pueblo como de un huérfano que se pone en tus manos. Yo curaré sus llagas, responde el Señor, los amaré por pura gracia; por cuanto se ha aplacado mi indignación contra ellos. Seré como el rocío para Israel; el cual brotará como el lirio, y echará raíces como un árbol del Líbano. Se extenderán sus ramas; será bello y fecundo como el olivo, y odorífero como el árbol del incienso.
+Se convertirán al Señor, y reposarán bajo su sombra; se alimentarán del trigo; se propagarán como la vid; la fragancia de su nombre será como la del vino del Líbano. Efraín dirá entonces: ¿Qué tengo yo ya que ver con los ídolos? Y yo le escucharé benignamente, yo lo haré crecer como un alto y verde abeto; de mí tendrán origen tus frutos, ¡oh Israel! ¿Quién es el sabio que estas cosas comprenda? ¿Quién tiene talento para penetrarlas? Porque los caminos del Señor son rectos, y por ellos andarán los justos; mas los prevaricadores hallarán en ellos su ruina.
+
+[Graduale]
+!Sal 89, 13; 1.
+Vuélvete hacia nosotros, Señor. ¿Hasta cuándo te mostrarás airado? Sé tú compasivo para con tus siervos.
+V. Señor, en todas épocas has sido tú nuestro amparo.
+
+[Evangelium]
+!Lucas 7, 36-50
+En aquel tiempo, le rogó uno de los fariseos que fuera a comer con él. Y habiendo entrado en casa del fariseo, se puso a la mesa. Cuando he aquí que una mujer de la ciudad, que era de mala conducta, luego que supo que se había puesto a la mesa en casa del fariseo, trajo un vaso de alabastro lleno de perfume; y arrimándose por detrás a sus pies, comenzó a bañárselos con sus lágrimas, y los limpiaba con los cabellos y los besaba, y derramaba sobre ellos el perfume. Lo que viendo el fariseo que le había convidado, decía para consigo: Si este hombre fuera profeta, bien conocería quién, y qué tal es la mujer que le está tocando, que es una mujer de mala vida. Jesús respondiendo a su pensamiento, le dijo: Simón, una cosa tengo que decirte. Di, maestro, respondió él. Cierto acreedor tenía dos deudores, uno le debía quinientos denarios, y el otro cincuenta. No teniendo ellos con qué pagar, perdonó a ambos la deuda. ¿Cuál de ellos a tu parecer le amará más? Respondió Simón: Hago juicio que aquel a quien se perdonó más. Y le dijo Jesús: Has juzgado rectamente. Y volviéndose hacia la mujer, dijo a Simón: ¿Ves a esta mujer? Yo entré en tu casa, y no me has dado agua con que se lavaran mis pies; mas ésta ha bañado mis pies con sus lágrimas, y los ha enjugado con sus cabellos. Tú no me has dado el ósculo de paz; pero ésta desde que llegó no ha cesado de besar mis pies. Tú no has ungido con perfume mi cabeza; y ésta ha derramado sobre mis pies sus perfumes. Por todo lo cual te digo que le son perdonados muchos pecados, porque ha amado mucho. Que ama menos aquel a quien menos se le perdona. En seguida dijo a la mujer: Perdonados te son tus pecados. Y luego los convidados empezaron a decir interiormente: ¿Quién es éste que también perdona pecados? Mas él dijo a la mujer: Tu fe te ha salvado, vete en paz.
+
+[Offertorium]
+!Sal 102, 2; 5.
+Bendice al Señor, alma mía, y guárdate de olvidar ninguno de sus beneficios; el que sacia con sus bienes tus deseos, para que se renueve tu juventud como la del águila.
+
+[Secreta]
+Que te sean aceptos, oh Señor, como te pedimos, estos ayunos que te ofrecemos; y que sirviéndonos de inspiración, nos hagan con tu gracia dignos de ti y nos conduzcan a las promesas eternas.
+$Per Dominum
+
+[Communio]
+!Sal 118, 22; 24.
+Líbrame del oprobio y del desprecio; pues he guardado exactamente tus testimonios. Porque tus decretos son la materia de mi meditación, y tus justas leyes mi consejo.
+
+[Postcommunio]
+Te suplicamos, Dios todopoderoso, que al date gracias por los dones recibidos, recibamos aun mayores beneficios.
+$Per Dominum

@@ -1,0 +1,83 @@
+﻿[Rank]
+Dominica I Adventus;;Semiduplex;;6
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Sal. 24, 1-3
+v. A ti, oh Señor, he levantado mi espíritu. En ti, oh Dios, tengo puesta mi~
+confianza; no quedaré avergonzado: ni se burlarán de mí mis enemigos; porque~
+ninguno que espere en ti quedará confundido.
+!Sal. 24, 4
+Muéstrame, ¡oh Señor!, tus caminos, y enséñame tus senderos.
+&Gloria
+v. A ti, oh Señor, he levantado mi espíritu. En ti, oh Dios, tengo puesta mi~
+confianza; no quedaré avergonzado: ni se burlarán de mí mis enemigos; porque~
+ninguno que espere en ti quedará confundido.
+
+[Oratio]
+Despierta Señor, tu potencia y ven; para que con tu protección merezcamos ser~
+libres de los peligros que nos amenazan por nuestros pecados, y ser salvos con~
+tu gracia. 
+$Qui vivis
+
+[Lectio]
+Lectura de la carta de San Pablo a los romanos.
+!Ro. 13, 11-14
+Hermanos: Entended, ya es hora de despertarnos de nuestro letargo. Pues~
+estamos más cerca de nuestra salud, que cuando recibimos la fe. La noche~
+está ya muy avanzada, y va a llegar el día de la eternidad. Dejemos, pues,~
+las obras de las tinieblas, y revistámonos de las armas de la luz. Andemos~
+con decencia y honestidad como se suele andar durante el día; no en comilonas~
+y disoluciones, no en contiendas y envidias; mas revestíos de nuestro Señor~
+Jesucristo.
+
+[Graduale]
+!Sal. 24, 3-4
+Ninguno que espere en ti quedará confundido.
+V. Muéstrame, ¡oh Señor!, tus caminos, y enséñame tus senderos. Aleluya, aleluya.
+!Sal. 84, 8
+V. Muéstranos, Señor, tu misericordia y danos tu salud. Aleluya.
+
+[GradualeF]
+!Sal. 24, 3-4
+Ninguno que espere en ti quedará confundido.
+V. Muéstrame, ¡oh Señor!, tus caminos, y enséñame tus senderos. 
+
+[Evangelium]
+Continuación + del Santo Evangelio de acuerdo a Lucas
+!Lucas 21, 25-33
+En aquel tiempo, dijo Jesús a sus discípulos: Habrá señales en el sol, en la~
+luna y en las entrellas, y en la tierra consternación de las gentes, por la~
+confusión que causará el ruido del mar, y de sus olas; secándose los hombres~
+por el temor y recelo de las cosas que sobrevendrán a todo el universo:~
+porque las virtudes de los cielos se bambolearán: y entonces verán al Hijo~
+del Hombre venir sobre una nube con gran poder y majestad. Cuando comenzaren,~
+pues, a cumplirse estas cosas, mirad y levantad vuestras cabezas, porque se~
+acerca vuestra redención. Y les dijo este símil: ved la higuera y todos los~
+árboles: cuando producen ya de si el fruto, sabéis que está cerca el verano;~
+así también, cuando veáis que suceden estas cosas, sabed que está cerca el~
+reino de Dios. En verdad os digo, que no pasará esta generación, hasta que~
+todo esto se cumpla. El cielo y la tierra pasarán, per mis palabras no pasarán.
+
+[Offertorium]
+!Sal. 24, 1-3
+A Ti, Señor, levanté mi alma: Dios mío, en Ti confío; no sea yo avergonzado,~
+ni se burlen de mí mis enemigos: porque todos los que en Ti esperan, no quedarán confundidos.
+
+[Secreta]
+Purifícanos, Señor, con la poderosa virtud de estas cosas sagradas; y haz que~
+nos hagan llegar aún más puros a su principio.
+$Per Dominum
+
+[Communio]
+!Sal. 84, 13
+El Señor nos colmará de su benignidad, y nuestra tierra dará su fruto.
+
+[Postcommunio]
+Recibamos, Señor, tu misericordia en medio de tu templo, para que preparemos~
+con los debidos honores la solemnidad venidera de nuestra redención.
+$Per Dominum

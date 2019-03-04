@@ -1,0 +1,413 @@
+﻿&Vidiaquam
+
+# Inicio
+!El sacerdote hace una reverencia al pie del altar y se santigua mientras dice:
+v. En el nombre del Padre + y del Hijo y del Espíritu Santo. Amén.
+
+!*D
+!En la Misa de difuntos y del Tiempo de Pasión exclusivamente, se omite el salmo 42.
+
+!Luego, uniendo sus manos en el pecho, empieza la Antífona:
+S. Me acercaré al altar de Dios.
+M. Al Dios que llena de alegría mi juventud.
+!*&Introibo 
+!El Sacerdote alternando con el Ministro recita:
+!Sal. 42, 1-5. 
+S. Júzgame tú, ¡oh Dios!, y toma en tus manos mi causa; líbrame de una gente impía, y del hombre inicuo y engañador.
+M. Pues que tú eres, ¡oh Dios!, mi fortaleza, ¿por qué me has desechado de ti? ¿Y por qué he de andar triste, mientras me aflige mi enemigo?
+S. Envíame tu luz y tu verdad, tu gracia y socorro; éstas me han de guiar y conducir a tu monte santo, hasta tus tabernáculos.
+M. Y me acercaré al altar de Dios, al Dios que llena de alegría mi juventud.
+S. Cantaré tus alabanzas con la cítara, ¡oh Dios, oh Dios mío! ¿Por qué estás triste, oh alma mía? ¿Y por qué me llenas de turbación?
+M. Espera en Dios; porque todavía he de cantarle alabanzas, por ser él el Salvador, que está siempre delante de mí, y el Dios mío.
+S. Gloria al Padre, y al Hijo, y al Espíritu Santo.
+M. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.
+! El sacerdote repite la Antífona:
+S. Me llegaré al altar de Dios.
+M. Al Dios que llena de alegría mi juventud.
+
+!Se santigua mientras dice:
+V. Nuestro + auxilio está en el nombre del Señor.
+R. Que hizo cielo y tierra.
+!Luego, el sacerdote junta las manos, se inclina profundamente y recita el Confiteor.
+v. Yo, pecador, me confieso a Dios todopoderosos, a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santo Apóstoles Pedro y Pablo, a todos los Santos y a vosotros hermanos, que pequé gravemente con el pensamiento, palabra y obra; (El sacerdote se golpea tres veces el pecho, diciendo:) por mi culpa, por mi culpa, por mi grandísima culpa. Por tanto ruego a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santos Apóstoles Pedro y Pablo, a todos los Santos y a vosotros hermanos, que roguéis por mí a Dios nuestro Señor.
+!x!M. Dios todopoderoso tenga misericordia de ti, y perdonados tus pecados, te conduzca a la vida eterna.
+!x!!El sacerdote responde: 
+!x!S. Amen,
+!x!!Se pone recto. El Ministro repite el Confiteor, y dónde el cura ha dicho a vosotros hermanos dice a Vos, Padre.
+!x!M. Yo, pecador, me confieso a Dios todopoderosos, a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santo Apóstoles Pedro y Pablo, a todos los Santos y a Vos Padre, que pequé gravemente con el pensamiento, palabra y obra; por mi culpa, por mi culpa, por mi grandísima culpa. Por tanto ruego a la bienaventurada siempre Virgen María, al bienaventurado San Miguel Arcángel, al bienaventurado San Juan Bautista, a los Santos Apóstoles Pedro y Pablo, a todos los Santos y a Vos Padre, que roguéis por mí a Dios nuestro Señor.
+!Luego, el sacerdote junta sus manos diciendo:
+S. Dios todopoderoso tenga misericordia de vosotros (nosotros), y perdonados vuestros (nuestros) pecados, os (nos) conduzca a la vida eterna.
+R. Amén.
+!Se santigua diciendo: 
+S. El Señor + omnipotente y misericordioso nos conceda el perdón, la absolución y remisión de nuestros pecados.
+R. Amén.
+
+!E inclinado prosigue:
+V. Dios, volviéndote a nosotros nos darás vida.
+R. Y tu pueblo se regocijará en ti.
+V. Señor, muéstranos tu misericordia.
+R. Y danos tu salvación.
+V. Señor, escucha mi oración.
+R. Y llegue a Ti mi clamor.
+V. El Señor esté con vosotros.
+R. Y con tu espíritu.
+!Separa y junta las manos, y dice en voz alta:
+v. Oremos, (y subiendo al altar, dice en voz baja: )
+v. Te rogamos, Señor, que borres nuestra iniquidades, para que podamos entrar con pureza de corazón en el Santo de los Santos. Por Cristo nuestro Señor. Amén.
+!Luego, con las manos juntas sobre el Altar, se inclina diciendo: 
+v. Te rogamos, Señor por los méritos de tus santos, cuyas reliquias yacen aquí (besa el altar), y de todos los Santos, que te dignes perdonarme todos mis pecados. Amén.
+
+!*S 
+# Incensación
+!En la San Misa solemne, antes de iniciar la antífona del Introito, inciensa el altar.
+!El Diácono, con la cabeza inclinada hacia el cura dice:
+Bendice, Padre reverendo. 
+!El sacerdote bendice el incienso diciendo:
+Seas ben + decido por aquél en cuyo honor serás quemado.
+!Y, después de tomar el incensario del diácono inciensa el altar, sin decir nada .
+!El diácono, después de haber recibido el incensario del celebrantes, inciensa a este solamente.
+!El sacerdote se dirige a la Epístola y, santiguándose, comienza en voz baja la antífona del Introito:
+
+# Introito
+&introitus
+
+# Kyrie
+!Después de terminar, junta las manos, se dirige hasta la mitad del altar y alternando con el Ministro, dice: 
+S. Señor, ten piedad. 	
+M. Señor, ten piedad. 	
+S. Señor, ten piedad. 	
+M. Cristo, ten piedad. 	
+S. Cristo, ten piedad.
+M. Cristo, ten piedad.	
+S. Señor, ten piedad.	
+M. Señor, ten piedad. 	
+S. Señor, ten piedad. 
+
+!! Gloria
+!*&GloriaM
+!Después, en medio del altar, extendiendo y juntando las manos, inclina ligeramente la cabeza. Cuando dice os adoramos, os damos gracias, Jesucristo, recibid nuestra súplica, inclina la cabeza; y si dice: Con el Espíritu Santo se signa de la frente al pecho. 
+v. Gloria a Dios en las alturas, y en la tierra paz a los hombres de buena voluntad. Te alabamos. Te bendecimos. Te adoramos. Te glorificamos. Te damos gracias por tu gran gloria. Señor Dios, Rey de los cielos, Dios Padre Omnipotente, Señor, Hijo Unigénito, Jesucristo. Señor Dios, Cordero de Dios, Hijo del Padre. Tú, que quitas los pecados del mundo, ten misericordia de nosotros. Tú, que quitas los pecados del mundo, admite nuestra súplica. Tú, que estás sentado a la diestra del Padre, ten misericordia de nosotros. Porque tú sólo eres Santo, Tú sólo el Señor, Tú sólo el Altísimo, Jesucristo. Con + el Espíritu Santo en la gloria de Dios Padre. Amén.
+
+# Oración
+!Luego besa el centro del altar y mirando a los fieles dice:
+&DominusVobiscum
+!El sacerdote recita las oraciones, una o más según sea necesario por el Ordinario del Oficio.
+&collect
+
+# Epístola
+&lectio
+
+# Gradual
+&graduale
+
+!*SnD
+# Evangelio
+!En la Misa solemne el diácono deposita el libro de los Evangelios en medio del altar. El sacerdote bendice el incienso y el diácono, arrodillado ante el altar y con las manos juntas, recita el Munda Cor.
+v. Purifica mi corazón y mis labios, oh Dios omnipotente, que purificaste los del Profeta Isaías con un carbón encendido; dígnate por tu misericordia purificarme a mí también, para que pueda anunciar dignamente tu santo Evangelio. Por Cristo nuestro Señor. Amén.
+!Después toma el libro del altar, y arrodillándose ante el sacerdote pide su bendición, diciendo:  
+D. Dame, Señor, tu bendición.
+!El sacerdote responde: 
+S. El Señor esté en mi corazón y en mis labios para que anuncia digna y correctamente su Evangelio. Amén.
+!Y, habiendo recibido la bendición, besa la mano del celebrante, y con los otros ministros va al lugar del Evangelio y de pie y con las manos juntas dice:
+V. El Señor esté con vosotros. 
+R. Y con tu espíritu.
+!Y dice: Principio, o continuación, del Santo Evangelio, signa el libro y a sí mismo. y lee el Evangelio como se ha dicho anteriormente. Al terminar, responde el ministro: Alabanza a Ti, Cristo, y el sacerdote besa el Evangelio, diciendo: Por las palabras del Evangelio, sean borrados nuestros delitos.
+&evangelium
+!Luego el sacerdote inciensa al diácono.
+
+!*RnD
+# Evangelio
+!Si el sacerdote celebra sin diácono y subdiácono, el misal se coloca al otro lado del altar. El sacerdote se inclina en medio del altar y juntando las manos dice:
+v. Purifica mi corazón y mis labios, oh Dios omnipotente, que purificaste los del Profeta Isaías con un carbón encendido; dígnate por tu misericordia purificarme a mí también, para que pueda anunciar dignamente tu santo Evangelio. Por Cristo nuestro Señor. Amén.
+v. El Señor esté en mi corazón y en mis labios para que anuncia digna y correctamente su Evangelio. Amén.
+!Luego, mirando hacia el libro y con las manos juntas dice:
+V. El Señor esté con vosotros. 
+R. Y con tu espíritu.
+!Y dice: Principio, o continuación, del Santo Evangelio, signa el libro y a sí mismo. y lee el Evangelio como se ha dicho anteriormente. Al terminar, responde el ministro: Alabanza a Ti, Cristo, y el sacerdote besa el Evangelio, diciendo: Por las palabras del Evangelio, sean borrados nuestros delitos.
+&evangelium
+
+!*D 
+# Evangelio
+!En las misas de difuntos se dice en Munda Cor Meum, pero no se pide la bendición ni el sacerdote besa el Evangelio.
+v. Purifica mi corazón y mis labios, oh Dios omnipotente, que purificaste los del Profeta Isaías con un carbón encendido; dígnate por tu misericordia purificarme a mí también, para que pueda anunciar dignamente tu santo Evangelio. Por Cristo nuestro Señor. Amén.
+!Luego, mirando hacia el libro y con las manos juntas dice:
+V. El Señor esté con vosotros. 
+R. Y con tu espíritu.
+!Y dice: Principio, o continuación, del Santo Evangelio, signa el libro y a sí mismo. y lee el Evangelio como se ha dicho anteriormente. Al terminar, responde el ministro: Alabanza a Ti, Cristo.
+&evangelium
+
+# Credo
+!*&Credo
+!Luego, acercando el misal al centro del altar, y separando y volviendo a juntar las manos, empieza a recitar el Credo. Cuando dice Dios y Jesucristo, el sacerdote inclina la cabeza hacia abajo. Al decir, y se encarnó, el sacerdote hace una genuflexión con la rodilla derecha. Y al decir, y la vida del siglo venidero, se santigua.
+v. Creo en un sólo Dios, Padre todopoderosos, creador del cielo y de la tierra, de todo lo visible e invisible. Y en un solo Señor Jesucristo, Hijo Unigénito de Dios. Y nacido del Padre, antes de todos los siglos. Dios de Dios, luz de luz, Dios verdadero de Dios verdadero. Engendrado, no creado, consubstancial al Padre, y por quien han sido creadas todas las cosas. El cual por nosotros los hombres, y por nuestra salvación bajó de los cielos. (Aquí se arrodilla) Y se encarnó por obra del Espíritu Santo de María Virgen; y se hizo Hombre. Crucificado también por nosotros, padeció bajo el poder de Poncio Pilato y fue sepultado. Y resucitó al tercer día, según las Escrituras. Y subió al cielo, donde está sentado a la diestra del Padre. Y ha de venir por segunda vez con gloria a juzgar a los vivos y a los muertos; y su reino no tendrá fin. Creo en el Espíritu Santo, Señor y vivificar que procede del Padre y del Hijo. El que con el Padre y el Hijo es juntamente adorado y glorificado; que habló por boca de los Profetas. Y creo en la Iglesia que es una, santa, católica y apostólica. Confieso un solo bautismo para la remisión de los pecados. Y espero la resurrección de los muertos. Y la vida del siglo venidero. Amén.
+
+# Ofertorio
+!Luego besa el altar, y hacia los fieles dice:
+V. El Señor esté con vosotros. 
+R. Y con tu espíritu.
+!Luego dice: Oremos, y el ofertorio.
+v. Oremos.
+&offertorium
+
+!Dicho esto, si es misa solemne, el diácono sostiene la patena con la hostia; si es privada, el sacerdote recibe la patena con las hostia que había ofrecido dice:
+v. Recibe, oh santo Padre, omnipotente y eterno Dios, esta inmaculada hostia que yo, indigno siervo tuyo, te ofrezco a Ti, mi Dios vivo y verdadero, por mi innumerables pecados, ofensas y negligencias, y por todos los circunstantes, y también por todos los fieles cristianos., vivos y difuntos, a fin de que a mí y a ellos nos aproveche para la salvación en la vida eterna.
+
+!Luego, hace una cruz con la patena y deposita la hostia sobre el corporal. El diácono vierte el vino, el subdiácono el  agua, en el cáliz. Si la misa es privada ambos son vertidos por el sacerdote. Cuando vaya a echar el agua, el sacerdote la bendice haciendo la señal de la cruz, diciendo: 
+v. Oh Dios,  que maravillosamente creaste la humana naturaleza, y más maravillosamente la restauraste; concédenos que por el misterio que representa la mezcla de esta agua y vino, participemos de la divinidad de nuestro Señor Jesucristo, tu Hijo, que se dignó hacerse participante de nuestra humanidad; el cual, siendo Dios, vive y reina contigo, en la unidad del Espíritu Santo, Dios, por todos los siglos de los siglos. Amén.
+
+!*D 
+!En la misa de los difuntos, se dice la oración anterior, pero no se bendice el agua. 
+
+!Después, toma el cáliz y ofreciéndolo dice:
+v. Te ofrecemos, Señor, el cáliz de la salvación, implorando tu clemencia, para que como olor de suavidad, suba a la presencia de tu Majestad divina por nuestra salvación y por la de todo el mundo. Amén.
+!Luego haciendo la señal de la cruz con el cáliz, lo coloca sobre el corporal y lo cubre con la palia: entonces, juntando las manos sobre el altar y ligeramente inclinado dice:
+v. Con espíritu humilde y corazón contrito, seamos recibidos por Ti, Señor, y que hoy nuestro sacrificio se ofrezca en tu presencia de modo que te sea grato, Señor Dios.
+!Y poniéndose recto separa y vuelve a juntar las manos mientras alza los ojos al cielo mientras, dice:
+v. Ven, Santificador omnipotente, eterno Dios: (Bendice la oblata:) y ben + dice este sacrificio dedicado a tu santo nombre. 
+
+!*S
+# Incensación
+!En las misas solemnes se bendice el incienso diciendo:
+v. Dígnate, Señor, por la intercesión de San Miguel Arcángel, que asiste a la diestra del altar del incienso, por la que todos tus escogidos, ben + decir este incienso y aceptarlo como suavísimo perfume. Por Cristo nuestro Señor. Amén.
+!Y, tomando el incensario del diácono, inciensa la oblata, del modo en que las rúbricas generales prescriben, diciendo:
+v. Este incienso, Señor, que Tú has bendecido, suba hasta Ti, y descienda sobre nosotros tu misericordia.
+!Luego, inciensa el altar diciendo:
+!Sal. 140, 2-4. 
+v. Ascienda mi oración ante tu acatamiento, como el olor del incienso; sea la elevación de mis manos tan acepta como el sacrificio de la tarde. Pon, Señor, una guardia a mi boca, y un candado que cierre enteramente mis labios. No permitas que se deslice mi corazón a palabras maliciosas, para pretextar excusas en los pecados, como hacen los hombres malvados; en sus delicias no quiero tener parte.
+!Después devuelve el incensario al diácono, y dice: 
+v. Encienda el Señor en nosotros el fuego de su amor y la llama de eterna caridad. Amén.
+!El diácono inciensa al sacerdote, quien luego inciensa a los otros por orden. 
+!El sacerdote es incensado por el diácono, y luego inciensa al resto por orden.
+
+!El sacerdote se lava las manos, diciendo:
+!Sal. 25, 6-12. 
+v. Lavaré mis manos en compañía de los inocentes; y rodearé, Señor, tu altar, para oír las voces de alabanza y referir todas tus maravillas, Señor, yo he amado el decoro de tu casa, y el lugar donde reside tu gloria. No pierdas, Dios mío, con los impíos mi alma, ni la vida mía con los hombres sanguinarios: en cuyas manos no se ve más que iniquidad, y cuya diestra está toda llena de sobornos. Mas yo he procedido según mi inocencia. Sálvame, Señor, y apiádate de mí. Mis pies se han dirigido siempre por el camino de la rectitud: ¡Oh Señor!, yo cantaré tus alabanzas en las reuniones de la Iglesia.
+&Gloria
+
+!A continuación, se inclina en medio del altar y juntando las manos y apoyándolas en el mismo dice:
+v. Recibe, santa Trinidad, la ofrenda que te presentamos en memoria de la Pasión, Resurrección y Ascensión de nuestro Señor Jesucristo, y para honra de la bienaventurada siempre Virgen María, y del bienaventurado San Juan Bautista y de los santos apóstoles Pedro y Pablo, y de éstos y de todos los demás Santos; para que a ellos les sirva de gloria y a nosotros para nuestra salvación, y se dignen interceder por nosotros en el  cielo los mismos cuya memoria veneramos en la tierra. Por el mismo Jesucristo, nuestro Señor. Amén.
+
+!Luego besa el altar y hacia los fieles separa y junta las manos y en voz alta dice:
+S. Orad, hermanos, para que este sacrificio mío y vuestro sea agradable a Dios Padre todopoderoso.
+!El ministro responde:
+M. El Señor reciba de tus manos este sacrificio para alabanza y gloria de su nombre, y también para nuestra propia utilidad y la de toda su santa Iglesia.
+!El sacerdote responde en voz baja:
+S. Amén.
+!Después, con las manos extendidas y sin decir Oremus, recita la oración secreta:
+_
+!!Secreta
+&secreta
+
+# Prefacio
+!Quibus finitis, cum pervenerit ad conclusionem, clara voce dicit: Per ómnia saecula sæculórum, cum Præfatione, ut in sequentibus. Præfationem incipit ambabus manibus positis hinc inde super Altare: quas aliquantulum elevat, cum dicit: Sursum corda. Jungit eas ante pectus, et caput inclinat, cum dicit: Grátias agamus Dómino, Deo nostro. Deinde disjungit manus, et disjunctas tenet usque ad finem Præfationis: qua finita, iterum jungit eas, et inclinatus dicit: Sanctus. Et cum dicit: Benedíctus, qui venit, signum crucis sibi producit a fronte ad pectus.
+V. El Señor esté con vosotros.
+R. Y con tu espíritu.
+V. Levantad vuestros corazones.
+R. Los tenemos puestos en el Señor.
+V. Demos gracias al Señor Dios nuestro.
+R. Es digno y justo.
+_
+&prefatio
+_
+v. Santo, Santo, Santo es el Señor Dios de los ejércitos. Llenos están los cielos y la tierra de tu gloria. ¡Hosanna en las alturas! Bendito el que viene en el nombre del Señor. ¡Hosanna en las alturas!
+
+# Canon
+!Terminado el prefacio, el sacerdote separa las manos, y elevándolas y juntándolas, eleva la vista al cielo, y realiza una inclinación profunda ante el altar, con las manos sobre éste, y dice:  
+v. Te rogamos y pedimos suplicantes, oh Padre clementísimo, por nuestro Señor Jesucristo, tu Hijo, (besa el altar y, juntando las manos en el pecho dice:) que aceptes y bendigas, (Signa la Hostia sobre el Cáliz a la vez diciendo:) estos + dones, estas + ofrendas, estos + santos y puros sacrificios; (Con las manos separadas continúa:) que te ofrecemos en primer lugar por tu santa Iglesia católica, para que te dignes pacificarla, guardarla, unirla, y gobernarla en toda la redondez de la tierra, juntamente con tu siervo nuevo Papa N.p y nuestro Obispo N.b y todos los que, fieles a la verdadera doctrina, profesan la fe católica y apostólica.
+
+!Conmemoración de los vivos
+v. Acuérdate, Señor, de tus siervos y siervas N. y N. wait10 (Juntando las manos, reza en silencio para aquellos a los que intención de orar: después separa las manos y prosigue:) y de todos los circunstantes cuya fe y devoción te son conocidas, por quienes te ofrecemos, o que ellos te ofrecen, este sacrificio de alabanza por sí y por todos los suyos, por la redención de sus almas, por su salvación y seguridad que esperan: ellos presentan sus oraciones ante Ti, Dios eterno, vivo y verdadero.
+
+&communicantes
+y los bienaventurados Apóstoles y Mártires Pedro y Pablo, Andrés, Santiago, Juan, Tomás, Santiago, Felipe, Bartolomé, Mateo, Simón y Tadeo; Lino, Cleto, Clemente, Sixto, Cornelio, Cipriano, Lorenzo, Crisógono, Juan y Pablo, Cosme y Damián y todos tus santos, por cuyos méritos y ruegos concédenos que en todas nuestras cosas nos veamos fortalecidos con el auxilio de tu protección. (Junta las manos) Por el mismo Cristo, nuestro Señor. Amén.
+
+(Con las manos extendidas sobre la oblata, dice:) 
+v. Te suplicamos, pues, Señor, que te dignes admitir propicia esta ofrenda que te presentamos nosotros tus siervos, y con nosotros tu familia entera,
+&hancigitur
+y que hagas que transcurran en paz los días de nuestra vida: que nos libres de la condenación eterna y nos cuentes en el número de tus elegidos. (Junta las manos)  Por Cristo nuestro Señor. Amén.
+
+v. Te rogamos, Señor, que te dignes, (Signa sobre la oblata,) ben + decir totalmente esta ofrenda, admi + tirla, rati + ficarla y aceptarla, a fin de que se convierta para (Signa una vez más sobre la hostia,) nosotros en el Cuer + po, (y sobre el cáliz,) y San + gre de tu amadísimo Hijo, (Junta las manos,) Jesucristo, nuestro Señor. 
+
+v. El cual, el día antes de su Pasión, (Toma la hostia,) tomó el pan en sus santas y venerables manos, (Levanta los ojos al cielo,) y levantando sus ojos al cielo, a Ti, Dios, Padre su Padre omnipotente, (Inclina la cabeza,) te dio gracias, (Signa la hostia,) lo ben + dijo, lo partió y lo dio a sus discípulos, diciendo: Tomad y comed todos de él.
+_
+!!!PORQUE ESTO ES MI CUERPO
+_
+wait5
+
+(Entonces, descubre el cáliz diciendo:)
+v. Igualmente, acabada la cena, (Toma el cáliz con las dos manos,) tomando asimismo este precioso Cáliz en sus santas y venerables manos, (Inclina la cabeza nuevamente,) dándote también las gracias, (Sostiene el cáliz con la mano izquierda mientras lo signa con la derecha,) lo ben + dijo, y lo dio a sus discípulos, diciendo: Tomad y bebed todos de él.
+
+_
+!!!PORQUE ESTE ES EL CÁLIZ DE MI SANGRE, DEL NUEVO Y ETERNO TESTAMENTO; MISTERIO DE FE: LA CUAL SERÁ DERRAMADA POR VOSOTROS Y POR MUCHOS PARA EL PERDÓN DE LOS PECADOS
+wait5
+_
+
+v. Todas las veces que hiciereis estas cosas, las haréis en memoria de mí.
+
+(Luego separa las manos diciendo:)
+v. Por esto Señor, nosotros tus siervos, y también tu santo pueblo, en memoria de la bienaventurada Pasión de tu mismo Hijo y Señor nuestro Jesucristo, y de su Resurrección de entre los muertos, como también de su gloriosa Ascensión a los cielos, ofrecemos a tu excelsa majestad, de los dones que nos has dado, (Junta las manos, y signa la hostia y el cáliz a la vez, diciendo :) la  Víctima + pura, la  Víctima + sancta, la  Víctima + inmaculada, (Signa de nuevo la hostia, diciendo:) el Pan + sagrado de la vida eterna, (y otra vez el cáliz, diciendo:) y el Cáliz + de la eterna salvación.
+
+(Y separando las manos prosigue:)
+v. Dígnate, Señor, mirar este Pan de vida y este Cáliz de salvación con rostro propicio y sereno, y aceptándolos benévolamente como aceptaste los dones del justo Abel, tu siervo, y el sacrificio de nuestro Padre Abraham, y el que te ofreció Melquisedec, el sumo sacerdote: sacrificio santo, hostia inmaculada.
+
+!Se inclina profundamente, junta las manos sobre el altar y dice:
+v. Te suplicamos humildemente, Dios todopoderoso, que por medio de tu santo Ángel hagas presentar estas ofrendas en tu sublime altar, ante la presencia de tu divina majestad; (Besa el altar,) para que todos cuantos, participando en este altar, recibiéremos el sacrosanto (Junta las manos, y signa al mismo tiempo la hostia y el cáliz,) Cuer + po, y San + gre de tu Hijo, (Se santigua diciendo:) nos veamos colmados de todas las bendiciones y gracias celestiales. (Junta las manos.) Por Cristo, nuestro Señor. Amén.
+
+!Conmemoración de los difuntos
+v. Acuérdate también, Señor, de tus siervos y siervas N. y N., que nos han precedido con la señal de la fe y duermen el sueño de la paz.wait10 (Junta las manos, reza brevemente por los difuntos, para el que tiene intención de rezar, luego las abre y prosigue:) A estos Señor, y a todos los que descansan en Jesucristo, te rogamos que les concedas el lugar de la felicidad, de la luz y de la paz. (Junta las manos, e inclina la cabeza, diciendo:) Por el mismo Jesucristo Señor. Amén.
+
+!Se golpea el pecho con la mano derecha y alzando un poco la voz dice:
+v. También a nosotros pecadores (Separa los brazos y, como antes, prosigue en voz baja:) siervos tuyos, que esperamos en la multitud de tus misericordias, dígnate hacernos participantes y compañeros de tus santos apóstoles y mártires: de Juan, Esteban, Matías, Bernabé, Ignacio, Alejandro, Marcelino, Pedro, Felicidad, Perpetua, Águeda, Lucía, Inés, Cecilia, Anastasia y todos tus santos, en cuya compañía te rogamos nos admitas generosamente, no como quien premia el mérito sino como quien concede el perdón. (Junta las manos.) Por Cristo nuestro Señor. 
+
+v. Por quien, Señor, siempre creas todos estos bienes, (Signa el Cáliz y la Hostia a la vez, diciendo:) los santi + ficas, los vivi + ficas, los ben + dices, y nos los das.
+!Descubre el Cáliz y hace una reverencia. Luego toma la Hostia con su mano derecha y signa tres veces sobre el Cáliz diciendo:
+v. Por + Él, y con + Él y en + Él, (Con la Hostia signa el espacio entre el Cáliz y el sacerdote) a Ti, Dios Padre + omnipotente, en unidad del Espíritu + Santo,
+!Eleva a la vez el cáliz y la hostia, diciendo:
+es dada toda honra y gloria.
+!Vuelve a colocar la Hostia sobre el corporal, cubre el Cáliz, hace una genuflexión, se levanta y dice en voz alta o canta:
+v. Por todos los siglos de los siglos.
+R. Amén.
+
+# Preparación para la comunión
+(Une las manos.)
+v. Oremos: Amonestados por preceptos saludables y aleccionados por divina enseñanza, nos atrevemos a decir:
+(Separa las manos.)
+v. Padre nuestro, que estás en los cielos, santificado sea tu nombre. Venga a nosotros tu reino. Hágase tu voluntad así la tierra como en el cielo. El pan nuestro de cada día dánosle hoy. Y perdónanos nuestras deudas así como nosotros perdonamos a nuestros deudores. Y no nos dejes caer en la tentación.
+R. Y líbranos del mal.
+S. (El sacerdote dije en voz baja :) Amén.
+
+!Luego, toma la patena con la mano derecha con los dedos índice y corazón, lo sostiene sobre el altar y dice en voz baja:
+v. Te rogamos, Señor, nos libres de todos los males pasados, presentes y futuros; por la intercesión de la bienaventurada y gloriosa siempre Virgen María, Madre de Dios, y de tus bienaventurados Apóstoles Pedro y Pablo, y Andrés y de todos los santos, (Se santigua con la patena,) danos propicio la paz de nuestros días; (Besa la patena,) para que asistidos del auxilio de tu misericordia, vivamos siempre libres de pecado y seguros de toda perturbación.
+!Coloca la patena bajo la Hostia, descubre el Cáliz y hace una genuflexión, se levanta, toma la Hostia y la divide por la mitad sobre el Cáliz, diciendo:
+ v. Por el mismo Jesucristo nuestro Señor tu Hijo.
+!Y la mitad que sostiene con su mano derecha la coloca sobre la patena. La otra mitad, que sigue manteniendo en su mano izquierda parte un fragmento diciendo:
+Que vive y reina contigo, en unidad del Espíritu Santo, Dios.
+!Coloca la segunda mitad sobre la patena y agarra el fragmento con su mano derecha y el Cáliz con su izquierda y dice:
+V. Por todos los siglos de los siglos.
+R. Amén. 
+!Hace la Señal de la Cruz con el fragmento sobre el Cáliz diciendo:
+v. La paz del Señor sea siempre con vosotros.
+R. Y con tu espíritu.
+
+!Coloca el fragmento dentro del Cáliz y dice en voz baja:
+v. Esta mezcla y consagración del Cuerpo y Sangre de nuestro Señor Jesucristo nos sirva a los que la recibimos para la vida eterna. Amén.
+!Cubre el Cáliz, hace una genuflexión y se levanta. Luego hace una reverencia y se golpea el pecho mientras dice:
+
+!*nD
+!  
+v. Cordero de Dios que quitas los pecados del mundo, ten piedad de nosotros.
+v. Cordero de Dios que quitas los pecados del mundo, ten piedad de nosotros.
+v. Cordero de Dios que quitas los pecados del mundo, danos la paz.
+!&AgnusHook
+
+!*D 
+!En Misa de difuntos, no se dice el ten piedad de nosotros sino:
+v. Cordero de Dios que quitas los pecados del mundo, concédeles descanso.
+v. Cordero de Dios que quitas los pecados del mundo, concédeles descanso.
+v. Cordero de Dios que quitas los pecados del mundo, concédeles el descanso eterno.
+
+!Luego, junta ambas manos sobre el altar e inclinado dice en voz baja la siguiente oración:
+!*&CheckQuiDixisti
+v. Oh Señor Jesucristo, que dijiste a tus Apóstoles: la paz os dejo, mi paz os doy; no mires a mis pecados, sino a la fe de tu Iglesia; y dígnate darle la paz y unirla según tu voluntad: Tú, que vives y reinas, Dios, por todos los siglos de los siglos. Amén.
+
+!*&CheckPax
+!En las misas solemnes, la paz se da ahora, el sacerdote besa el altar y saluda al diácono diciendo:
+v. La paz sea contigo.
+R. Y con tu espíritu.
+
+!*D
+! En la Misa de difuntos no se da el saludo de la paz.
+
+v. Oh Señor Jesucristo, Hijo de Dios vivo, que por la voluntad del Padre y la cooperación del Espíritu Santo, por tu muerte diste la vida al mundo; líbrame, por este tu sacrosanto Cuerpo y Sangre, de todas mis iniquidades y de todos los males; y haz que permanezca yo siempre fiel a tus preceptos y no permitas que me separe nunca de ti: que vives y reinas con el mismo Dios Padre y el Espíritu Santo, Dios, por todos los siglos de los siglos. Amén.
+
+v. La participación de tu Cuerpo, Señor Jesucristo, que sin merecerlo me atrevo a recibir, no sea para mí motivo de juicio y de la condenación, sino que por tu misericordia me sirva de defensa para el alma y para el cuerpo y de remedio saludable: Tú que vives y reinas con Dios Padre, en unidad del Espíritu Santo, Dios, por todos los siglos de los siglos. Amén.
+
+ !El sacerdote hace una genuflexión, se levanta y dice:
+v. Recibiré el Pan celestial e invocaré el nombre del Señor.
+!Se inclina ligeramente, toma ambas partes de la Hostia con el pulgar y el índice de su mano izquierda, debajo de ésta agarra la patena entre los dedos índice y corazón de la misma mano mientras que con la derecha se golpea el pecho y alzando un poco la voz dice tres veces devota y humildemente:
+V. Señor, no soy digno (Y prosigue en voz baja:) de que entres en mi pobre morada; mas dilo con tu palabra y mi alma será sanada.
+V. Señor, no soy digno (Y prosigue en voz baja:) de que entres en mi pobre morada; mas dilo con tu palabra y mi alma será sanada.
+V. Señor, no soy digno (Y prosigue en voz baja:) de que entres en mi pobre morada; mas dilo con tu palabra y mi alma será sanada.
+
+!Después hace la señal de la cruz a la hostia sobre la patena y dice:
+ v.  El Cuerpo de nuestro Señor Jesucristo guarde tu alma para la vida eterna. Amén.
+!Luego se inclina y recibe respetuosamente ambas partes de la Hostia, se endereza, coloca la patena sobre el corporal y junta sus dos manos con los índices doblados mientras medita un poco sobre el Santo Sacramento.
+!A continuación, descubre el Cáliz, hace una reverencia y recoge todos los fragmentos de la Hostia que hayan quedado en el corporal, los recoge con la patena y con los dedos índice y pulgar derechos los mete al Cáliz sin que quede ninguno y dice:
+v. ¿Con qué compensaré yo al Señor por tanto como Él me ha dado? Tomaré el cáliz de salvación, e invocaré el nombre del Señor. Alabándole invocaré al Señor y me veré libre de mis enemigos.
+!Toma el Cáliz y con la mano derecha, lo signa y dice:
+v. La Sangre de nuestro Señor Jesucristo guarde mi alma para la vida eterna.
+!Toma la Sangre de Cristo junto a la partículas que hubieran quedado.
+
+&Communio_Populi
+wait16
+{ Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua de costado de Cristo, lávame. Pasión de Cristo, fortaléceme. ¡Oh, buen Jesús, óyeme! Dentro de tus llagas, escóndeme. No permitas que me aparte de ti. Del enemigo maligno, defiéndeme. En la hora de mi muerte, llámame y mándame ir a ti, para que con tus santos te alabe, por los siglos de los siglos. Amén. }
+
+!Luego dice:
+v. Lo que tomamos con la boca, recibámoslo, Señor, con alma pura; y de don temporal conviértase en remedio eterno.
+!ITiende el Cáliz al acólito, o al diacono en las misas solemnes, el cual vierte vino en él para la primera ablución y el sacerdote prosigue:
+v. Tu Cuerpo, Señor, que he recibido, y la Sangre, que he bebido, permanezcan estrechamente unidos a mis entrañas, y haz que no quede mancha alguna de pecado en mí, alimentado con sacramentos puros y santos. Tú que vives y reinas por los siglos de los siglos. Amén.
+!El sacerdote limpia entonces sus dedos y recibe la segunda ablución. Luego cubre el cáliz y dobla el corporal, lo coloca sobre el cáliz como al principio de misa y va al lado derecho del altar rezando las oraciones del misal.
+
+# Comunión
+&communio
+
+# Postcommunio
+!Dice la antífona de la comunión, besa el altar y hacia los fieles dice:
+S. El Señor esté con vosotros.
+R. Y con tu espíritu.
+!Después, se vuelve hacia el altar y dice:
+&postcommunio
+
+# Conclusión
+!Se gira hacia los fieles y dice:
+S. El Señor esté con vosotros.
+M. Y con tu espíritu.
+!*D En las misas de difuntos se dice: Descansa en paz. Amén.
+
+&itemissaest
+
+!*&placeattibi
+!A continuación, el celebrante se inclina en el centro del altar, y coloca las manos juntas sobre el mismo y dice en voz baja:
+v. Sea de tu agrado, Trinidad Santa, el obsequio de mi sumisión y haz que el sacrificio, que yo indigno acabo de ofrecer a los ojos de tu divina Majestad, te sea aceptable; y que por tu misericordia sea propiciatorio para mí y para todos aquellos por quienes lo he ofrecido. Por Jesucristo, nuestro Señor. Amén.
+
+!*&CheckBlessing
+!Luego besa el altar: y elevando los ojos, separa y juntas las manos, e inclinando la cabeza hacia la cruz, dice:
+v. Os bendiga Dios omnipotente,
+!y hacia los fieles, sólo dice una bendición, incluso en las misas solemnes. En las misas pontificales se bendice tres veces. Luego prosigue:
+v. Padre, Hijo, + y Espíritu Santo.
+R. Amén.
+
+!*D
+!En las misas de difuntos, la bendición se omite.
+
+!*&CheckUltimaEv
+!Entonces el sacerdote al lado del Evangelio, con las manos juntas, dice:
+V. El Señor esté con vosotros.
+R. Y con tu espíritu.
+!Y hace la señal de la cruz sobre el altar, y luego se signa a sí mismo, diciendo:
+&Ultimaev
+
+!*R
+# Oración de León XIII
+!Se dice de rodillas tras la celebración de las misas bajas.
+S. Dios te salve María, llena eres de gracia, el Señor es contigo, bendita tu eres entre todas las mujeres y bendito es el fruto de tu vientre, Jesús.
+O. Santa María, Madre de Dios, ruega por nosotros pecados, ahora y en la hora de nuestra muerte. Amén. 
+S. Dios te salve María, llena eres de gracia, el Señor es contigo, bendita tu eres entre todas las mujeres y bendito es el fruto de tu vientre, Jesús.
+O. Santa María, Madre de Dios, ruega por nosotros pecados, ahora y en la hora de nuestra muerte. Amén. 
+S. Dios te salve María, llena eres de gracia, el Señor es contigo, bendita tu eres entre todas las mujeres y bendito es el fruto de tu vientre, Jesús.
+O. Santa María, Madre de Dios, ruega por nosotros pecados, ahora y en la hora de nuestra muerte. Amén. 
+_
+O. Dios te salve, Reina y Madre de misericordia, vida dulzura y esperanza nuestra, Dios te salve. A ti clamamos los desterrados hijos de Eva. A ti suspiramos gimiendo y llorando en este valle de lágrimas. Sea, pues, Señora, abogada nuestra, vuelva a nosotros esos tus hijos misericordiosos. Y después de este destierro muéstranos a Jesús, fruto bendito de tu vientre. Oh clementísima, oh piadosa, oh dulce Virgen María.
+S. Ruega por nosotros, Santa Madre de Dios.
+O. Para que seamos dignos de alcanzas las promesas de nuestro Señor Jesucristo.
+_
+S. Oremos. ¡Oh Dios!, nuestro refugio y fortaleza, mira propicio al pueblo que a Ti clama y por intercesión de la gloriosa e Inmaculada siempre Virgen María, Madre de Dios, del bienaventurado José, su Esposo, de tus santos Apóstoles, Pedro y Pablo, y de todos los Santos, atiende benigno y misericordioso a las oraciones que te dirigimos por la conversión de los pecados y la libertad y la exaltación de la Santa Madre Iglesia: por el mismo Cristo, nuestro Señor. Amén.
+_
+O. San Miguel Arcángel, defiéndenos en la batalla; sé nuestro amparo contra la perversidad y el acecho del demonio. "Reprímale Dios", pedimos suplicantes; y tú, Príncipe de la milicia celestial, arroja al infierno, con el divino poder, a Satanás y a los otros espíritus malignos que andan dispersos por el mundo para la perdición de las almas. Amén.
+_
+S. Corazón Sacratísimo de Jesús.
+O. Ten misericordia de nosotros.
+S. Corazón Sacratísimo de Jesús.
+O. Ten misericordia de nosotros.
+S. Corazón Sacratísimo de Jesús.
+O. Ten misericordia de nosotros.
