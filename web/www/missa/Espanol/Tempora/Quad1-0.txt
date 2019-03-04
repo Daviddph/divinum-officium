@@ -10,6 +10,7 @@ Suffragium=Sanctorum;Vivis;;
 [Introitus]
 !Sal 90,15-16
 v. Me invocará, y yo le oiré: le libraré, y lo glorificaré: le saciaré de una larga vida.
+!Sal 90,1
 El que habita al abrigo del Altísimo: morará en la protección del Dios del cielo.
 &Gloria
 v. Me invocará, y yo le oiré: le libraré, y lo glorificaré: le saciaré de una larga vida.
