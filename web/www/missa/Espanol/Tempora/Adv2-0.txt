@@ -10,71 +10,87 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Introitus]
-!Is 30:30.
-v. Pópulus Sion, ecce, Dóminus véniet ad salvándas gentes: et audítam fáciet~
-Dóminus glóriam vocis suæ in lætítia cordis vestri.
-!Ps 79:2
-Qui regis Israël, inténde: qui dedúcis, velut ovem, Joseph.
+!Is. 30,30.
+v. Pueblo de Sion, mira que el Señor vendrá a salvar a las naciones; y hará~
+el Señor oír la gloria de su voz en la alegría de vuestro corazón.
+!Sal. 79,2
+Tú que gobiernas a Israel, atiende: Tú que guías a José como a una oveja.
 &Gloria
-v. Pópulus Sion, ecce, Dóminus véniet ad salvándas gentes: et audítam fáciet~
-Dóminus glóriam vocis suæ in lætítia cordis vestri.
+v. Pueblo de Sion, mira que el Señor vendrá a salvar a las naciones; y hará~
+el Señor oír la gloria de su voz en la alegría de vuestro corazón.
 
 [Oratio]
-Excita, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut, per ejus~
-advéntum, purificátis tibi méntibus servíre mereámur:
+Mueve, Señor, nuestros corazones para que preparar los caminos de tu Unigénito;~
+para que, por su venida merezcamos servirte con almas purificadas.
 $Qui tecum
 
 [Lectio]
-Lectio Epístolæ beáti Pauli Apostoli ad Romános.
-!Rom 15:4-13.
-Fatres: Quæcúmque scripta sunt, ad nostram doctrínam scripta sunt: ut per patiéntiam et consolatiónem Scripturárum spem habeámus. Deus autem patiéntiæ et solácii det vobis idípsum sápere in altérutrum secúndum Jesum Christum: ut unánimes, uno ore honorificétis Deum et Patrem Dómini nostri Jesu Christi. Propter quod suscípite ínvicem, sicut et Christus suscépit vos in honórem Dei. Dico enim Christum Jesum minístrum fuísse circumcisiónis propter veritátem Dei, ad confirmándas promissiónes patrum: gentes autem super misericórdia honoráre Deum, sicut scriptum est: Proptérea confitébor tibi in géntibus, Dómine, et nómini tuo cantábo. Et íterum dicit: Lætámini, gentes, cum plebe ejus. Et iterum: Laudáte, omnes gentes, Dóminum: et magnificáte eum, omnes pópuli. Et rursus Isaías ait: Erit radix Jesse, et qui exsúrget régere gentes, in eum gentes sperábunt. Deus autem spei répleat vos omni gáudio et pace in credéndo: ut abundétis in spe et virtúte Spíritus Sancti.
+Lectura de la Carta del Apóstol Pablo a los romanos.
+!Rom 15,4-13.
+Hermanos: Todas las cosas que han sido escritas, para nuestra enseñanza están~
+escritas: para que por la paciencia y la consolación de las Escrituras,~
+tengamos esperanza. Mas el Dios de la paciencia y del consuelo, os dé a~ 
+sentir una misma cosa entre vosotros conforme a Jesucristo, para que unánimes,~
+a una glorifiquéis al Dios y Padre de Nuestro Señor Jesucristo. Por tanto,~
+recibíos los unos a los otros como Cristo os recibió, para gloria de Dios.~
+Yo os digo que Jesucristo fue el dispensador del Evangelio primero para los~
+judíos circuncisos, demostrando con Él la veracidad de Dios, y confirmando~
+las promesas hechas a sus padres. Mas también a los gentiles deben glorificar~
+a Dios por su misericordia, según está escrito: Por esto te alabaré, Señor,~
+entre las naciones, y cantaré tu nombre. Y en otro lugar: Alegraos, gentiles,~
+con su pueblo. Y otra vez: alabad al Señor todas las gentes, y ensalzadle~
+todos los pueblos. Y asimismo Isaías dice: Brotará el vástago de Jesé, y~
+surgirá para gobernar a la Naciones; en Él esperarán las gentes. El Dios de~
+la esperanza os colme de todo gozo y de paz en el creer; para que abundéis en~
+esperanza y en la virtud del Espíritu Santo.
 
 [Graduale]
-!Ps 49:2-3; 49:5
-Ex Sion species decóris ejus: Deus maniféste véniet,
-V. Congregáta illi sanctos ejus, qui ordinavérunt testaméntum ejus super~
-sacrifícia. Allelúja, allelúja,
-!Ps 121:1
-V. Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Allelúja.
+!Sal. 49,2-3; 49,5
+De Sión descenderá la gloria de su hermosura: Dios vendrá en su esplendor.
+V. Congregad en su derredor a los fieles, que concertaron alianza con Él en~
+sus sacrificios. Aleluya, aleluya.
+!Sal. 121,1
+V. Me ha alegrado en ésto que se me ha dicho: A la casa del Señor iremos.~
+Aleluya.
 
 [GradualeF]
-!Ps 49:2-3; 49:5
-Ex Sion species decóris ejus: Deus maniféste véniet,
-V. Congregáta illi sanctos ejus, qui ordinavérunt testaméntum ejus super~
-sacrifícia.
+!Ps 49,2-3; 49,5
+De Sion descenderá la gloria de su hermosura: Dios vendrá en su esplendor.
+V. Congregad en su derredor a los fieles, que concertaron alianza con Él en~
+sus sacrificios.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 11:2-10
-In illo tempore: Cum audísset Joánnes in vínculis ópera Christi, mittens duos de~
-discípulis suis, ait illi: Tu es, qui ventúrus es, an alium exspectámus ? Et~
-respóndens Jesus, ait illis: Eúntes renuntiáte Joánni, quæ audístis et vidístis.~
-Cæci vident, claudi ámbulant, leprósi mundántur, surdi áudiunt, mórtui resúrgunt,~
-páuperes evangelizántur: et beátus est, qui non fúerit scandalizátus in me.~
-Illis autem abeúntibus, coepit Jesus dícere ad turbas de Joánne: Quid exístis in~
-desértum vidére ? arúndinem vento agitátam ? Sed quid exístis videre ? hóminem~
-móllibus vestitum ? Ecce, qui móllibus vestiúntur, in dómibus regum sunt. Sed~
-quid exístis vidére ? Prophétam ? Etiam dico vobis, et plus quam Prophétam. Hic~
-est enim, de quo scriptum est: Ecce, ego mitto Angelum meum ante fáciem tuam,~
-qui præparábit viam tuam ante te. 
+Continuación ++ del santo Evangelio según Mateo.
+!Mat. 11,2-10
+En aquel tiempo: Al oír Juan desde la cárcel las obras de Cristo, envió dos de~
+sus discípulos a preguntarle: ¿Eres Tú el que ha de venir, o debemos esperar~
+a otro? Y respondiendo Jesús, les dijo: Id y contad a Juan lo que habéis oído~
+y visto. Los ciegos ven, los cojos andan, los leprosos quedan limpios, los sordos~
+ oyen, los muertos resucitan, y a los pobres se les anuncia el Evangelio; y~
+bienaventurado el que no fuere escandalizado en Mí. Y luego que se fueron éstos,~
+comenzó Jesús a hablar de Juan al pueblo: ¿Que salisteis a ver al desierto? ¿Una~
+caña movida del viento? O, ¿qué salisteis a ver? ¿a un hombre vestido con ropas~
+delicadas? Cierto, los que visten finos vestidos en casas de reyes están. Pero,~
+¿salisteis a ver? ¿Un profeta? Ciertamente lo es, y aún más que Profeta. Porque~
+éste es de quien está escrito. He aquí Yo envío mi Ángel ante tu faz, que~
+preparará tu camino ante Ti.
 
 [Offertorium]
 
-!Ps 84:7-8 
-Deus, tu convérsus vivificábis nos, et plebs tua lætábitur in te: osténde nobis,~
-Dómine, misericórdiam tuam, et salutáre tuum da nobis.
+!Sal. 84,7-8 
+Oh Dios, si te vuelves a nosotros, nos darás vida, y tu pueblo se alegrará en Ti:~
+muéstranos, Señor, tu misericordia, y danos el Salvador.
 
 [Secreta]
-Placáre, quaesumus, Dómine, humilitátis nostræ précibus et hóstiis: et, ubi~
-nulla suppétunt suffrágia meritórum, tuis nobis succúrre præsídiis.
+Rogámoste, Señor, te aplaques con nuestras oraciones y ofrendas: y como no podemos~
+alegar méritos de ningún valor, socórrenos con tu auxilio.
 $Per Dominum
 
 [Communio]
-!Bar 5:5; 4:36
-Jerúsalem, surge et sta in excélso, ei vide jucunditátem, quæ véniet tibi a Deo~
-tuo.
+!Bar. 5,5; 4,36
+Levántate, Jerusalén, ponte en lo alto, y mira el regocijo que te viene de Dios.
 
 [Postcommunio]
-Repléti cibo spirituális alimóniæ, súpplices te, Dómine, deprecámur: ut, hujus~
-participatióne mystérii, dóceas nos terréna despícere et amáre coeléstia.
+Saciados ya con el manjar espiritual, te suplicamos, Señor, que por la participación~
+de este Sacramento, nos enseñes a despreciar lo terreno, y amar lo celestial.
 $Per Dominum
