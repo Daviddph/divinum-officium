@@ -1,0 +1,75 @@
+﻿[Rank]
+Dominica IV Adventus;;Semiduplex;;5.6
+
+[Rank]
+Dominica IV Adventus;;Semiduplex;;6
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Is. 45,8
+v. Cielos, enviad rocío de lo alto, y las nubes lluevan al Justo, ábrase la~
+tierra y brote el Salvador.
+!Sal. 18,2
+Los cielos cantan
+la gloria de Dios; y el firmamento pregona cuán grandes son las obras de sus manos.
+&Gloria
+v. Cielos, enviad rocío de lo alto, y las nubes lluevan al Justo, ábrase la~
+tierra y brote el Salvador.
+
+[Oratio]
+Muestra, Señor, tu poder y ven, y socórrenos con tu gran fortaleza; para que tu misericordia siempre propicia, se apresure a darnos graciosamente los auxilios que nuestros pecados nos retardan.
+$Qui vivis
+
+[Lectio]
+Lectura de la carta del Apóstol Pablo a los corintios
+!1 Co. 4,1-5
+Hermanos: Nos ha de considerar el hombre, a los que servimos al altar, como ministros de Cristo y dispensadores de los misterios de Dios. Ahora, lo que se requiere en los dispensadores, es que cada cual sea hallado fiel. Por lo que a mí toca, muy poco se me da el ser juzgado por vosotros, o en cualquier juicio humano, pues ni aun yo me atrevo a juzgar a de mí mismo. Pues si bien no me remuerde la conciencia de cosa alguna; no por eso me tengo por justificado, pues el que me juzga es el Señor. Por tanto, no juzguéis antes de tiempo, hasta que venga el Señor: el cual sacará a plena luz lo que está en los escondrijos de las tinieblas, y descubrirá las intenciones de los corazones, y entonces cada cual será de Dios alabado.
+
+[Graduale]
+!Sal. 144,18 y 21
+Cerca está el Señor de todos los que le invocan; de todos los que le invocan~
+de verdad.
+V. Mi boca hablará la alabanza del Señor, y bendiga toda carne su santo nombre.~
+Aleluya, aleluya.
+V. ¡Ven, Señor, y no tardes; perdona los pecados de tu pueblo Israel! Aleluya.
+
+[GradualeF]
+!Sal. 144,18 y 21
+Cerca está el Señor de todos los que le invocan; de todos los que le invocan~
+de verdad.
+V. Mi boca hablará la alabanza del Señor, y bendiga toda carne su santo nombre.
+
+[Evangelium]
+Continuación ++ del Santo Evangelio según Lucas.
+!Lc. 3,1-6
+El año décimo quinto del Imperio de Tiberio César, siendo Poncio Pilato gobernador~
+de la Judea, Herodes tetrarca de Galilea, y su hermano Filipo tetrarca de Iturea~
+y de la provincia de Traconítide; siendo Lisanias tetrarca de Abilina y bajo~
+los príncipes de los sacerdotes Aneas y Caifás; vino palabra del Señor sobre~
+Juan, hijo de Zacarías, en el desierto. Y vino éste por toda la región del~
+Jordán predicando el bautismo de penitencia, para la remisión de pecados, conforme~
+está escrito en el libro de los oráculos de Isaías profeta: Voz del que clama~
+en el desierto: Preparad el camino del Señor, enderezad sus senderos, todo~
+valle será terraplenado y todo monte o collado será rebajado, y lo torcido~
+enderezado, y los caminos fragosos allanados, y verá toda carne al Salvador de Dios.
+
+[Offertorium]
+!Lc. 1,28
+Dios te salve María, llena eres de gracia, el Señor es contigo; bendita tu eres entre todas las mujeres, y bendito es el fruto de tu vientre.
+
+[Secreta]
+Rogámoste, Señor, mires benigno a los presente sacrificios; para que aprovechen a nuestra devoción y salud.
+$Per Dominum
+
+[Communio]
+!Is. 7,14
+He aquí que una Virgen concebirá, y parirá un Hijo, y su nombre será llamado Emmanuel.
+
+[Postcommunio]
+Te rogamos, Señor, recibidos estos dones, que con la frecuentación del Misterio, se acreciente el efecto de nuestra salvación.
+$Per Dominum
+

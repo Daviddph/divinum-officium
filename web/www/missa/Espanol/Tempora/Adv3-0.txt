@@ -1,0 +1,83 @@
+﻿[Rank]
+Dominica III Adventus;;Semiduplex;;5.6
+
+[Rank]
+Dominica III Adventus;;Semiduplex;;6
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Flp. 4,4-6
+v. Gozaos siempre en el Señor; otra vez os digo: gozaos. Vuestra modestia sea~
+patente a todos los hombres; porque el Señor está cerca. No tengáis solicitud~ de cosa alguna: mas con mucha oración sea manifiestas vuestras
+peticiones~ delante de Dios.
+!Sal. 84,2
+Bendijiste, Señor, a tu tierra: apartaste la cautividad de Jacob. 
+&Gloria
+v. Gozaos siempre en el Señor; otra vez os digo: gozaos. Vuestra modestia sea~
+patente a todos los hombres; porque el Señor está cerca. No tengáis
+solicitud~ de cosa alguna: mas con mucha oración sea manifiestas vuestras
+peticiones~
+delante de Dios.
+
+[Oratio]
+Rogámoste, Señor, apliques tu oído a nuestras súplicas; e ilumines las tinieblas~
+de nuestra inteligencia, con la gracia de tu visita.
+$Qui vivis
+
+[Lectio]
+Lectura de la Carta del Apóstol Pablo a los Filipenses.
+!Flp. 4,4-7 
+Hermanos: Gozaos siempre en el Señor; otra vez os digo: gozaos. Vuestra modestia sea patente a todos los hombres, porque el Señor está cerca. No andéis solícitos de cosa alguna: mas con mucha oración y ruegos, con hacimiento de gracias, sean manifiestas vuestras peticiones delante de Dios. Y la paz de Dios, que sobrepuja a todo pensamiento, guarde vuestros corazones y vuestras inteligencias, en nuestro Señor Jesucristo.
+
+[Graduale]
+!Sal. 79,2-3,2
+Tú Señor, que estás sentado sobre los Querubines, excita tu poder y ven.
+V. Tú, que gobiernas a Israel, atiende: Tú que guías a José como a una oveja,
+V. Excita, Señor, tu poder y ven a hacernos salvos. Aleluya.
+
+[GradualeF]
+!Sal. 79,2-3,2
+Tú Señor, que estás sentado sobre los Querubines, excita tu poder y ven.
+V. Tú, que gobiernas a Israel, atiende: Tú que guías a José como a una oveja.
+
+[Evangelium]
+Continuación ++ del Santo Evangelio según Juan
+!Jn. 1,19-28
+En aquel tiempo: Enviaron los judíos sacerdotes y levitas de Jerusalén, a~
+preguntar a Juan: Tú, ¿quién eres? Y confesó y no negó; antes protestó: Yo~
+no soy el Cristo. Y le preguntaron: Pues, ¿quién eres? ¿Eres tú Elías? Y dijo: ~
+No lo soy. ¿Eres tú el Profeta? Y respondió: No. Y le dijeron: Pues dinos quién~
+eres, para que podamos dar respuesta a los que nos han enviado. ¿Qué dices~
+de ti mismo? Él dijo: Yo soy voz del que clama en el desierto: Enderezad el~
+camino del Señor, como dijo Isaías el profeta. Y los que habías sido
+enviados~
+eran los fariseos. Y le preguntaron y le dijeron: Pues, ¿por qué bautizas,~
+si tú no eres el Cristo, ni Elías, ni el Profeta? Juan les respondió: Yo bautizo~
+en agua, mas en medio de vosotros está Uno a quien vosotros no conocéis. Éste~
+es el que ha de venir después de mí; y a quien yo no soy digno de desatar la~
+correa de su zapato. Esto aconteció en Betania a la otra parte del Jordán,~
+en donde estaba Juan bautizando.
+
+[Offertorium]
+!Sal. 84,2
+Bendijiste, Señor, a tu tierra; pusiste término a la cautividad de Jacob, perdonaste la maldad de tu pueblo.
+
+[Secreta]
+Haz, Señor, que inmolemos siempre con devoción esta Hostia; a fin de que produzca~
+el efecto para el que fue instituida, y obre maravillosamente en nosotros tu~
+salvación.
+$Per Dominum
+
+[Communio]
+!Is. 35,4.
+Decid a los pusilánimes: animaos, y no temáis; mirad que nuestro Dios vendrá~
+y nos salvará.
+
+[Postcommunio]
+Imploramos, Señor, tu clemencia para que estos divinos auxilios, al purificarnos~
+de los vicios nos dispongan para las fiestas venideras.
+$Per Dominum
