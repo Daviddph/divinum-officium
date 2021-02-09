@@ -84,7 +84,7 @@ R. Y mi clamor llegue a Vos.
 #Oratio
 &Dominus_vobiscum1
 $Oremus	
-v. Visita, Señor, esta habitación: aleja de ella las insidias del enemigo; que tus ángeles santos habiten en ella y nos guarden en paz.
+v. Visita, Señor, esta habitación: aleja de ella las insidias del enemigo; que tus ángeles santos habiten en ella y nos guarden en paz y que tu bendición permanezca siempre con nosotros.
 $Per Dominum
 
 #Conclusio
